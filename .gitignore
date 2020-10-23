@@ -1,0 +1,7 @@
+account.json
+.terraform/*
+.terraform
+terraform.tfstate
+terraform.*
+.git
+.DS_Store
