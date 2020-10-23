@@ -2,6 +2,6 @@ account.json
 .terraform/*
 .terraform
 terraform.tfstate
-terraform.*
+terraform.tfstate.*
 .git
 .DS_Store
